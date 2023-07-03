@@ -91,6 +91,14 @@ line-height: 173.6%;
 letter-spacing: 0.91px;
 margin-left: 29px;
 }
+.kamron
+{
+    text-shadow: 1px 1px 1px 1px rgba(90, 90, 90, 1);
+    font-size: 45px;
+    position: absolute;
+    bottom: 0px;
+    margin-left: 400px;
+}
 
 
 
