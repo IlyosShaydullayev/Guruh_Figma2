@@ -1,0 +1,118 @@
+footer{
+    width: 1730px;
+height: 529px;
+font-family: sans-serif;
+}
+.background{
+    width: 1730px;
+    height: 529px;
+    margin-top: -6px;
+}
+.top{
+    width: 1730px;
+    height: 90px;
+}
+.katta{
+    margin-top: -450px;
+    margin-left: 158px;
+    margin-right: 9px;
+    display: flex;
+}
+.logos_word{
+    color: #FFF;
+font-size: 39.778px;
+font-style: normal;
+font-weight: 800;
+line-height: 110.6%;
+letter-spacing: 1.591px;
+}
+.txt{
+    width: 315px;
+width: 315px;
+color: #FFF;
+font-size: 16px;
+font-weight: 400;
+line-height: 185.1%;
+letter-spacing: 0.64px;
+margin-top: 36px;
+}
+.Company, .Help, .Resource{
+    margin-left: 76px;
+    height: 200px;
+    line-height: 50px;
+}
+.company, .help, .resource{
+    color: #FFF;
+    font-size: 18px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 110.6%;
+    letter-spacing: 0.72px;
+    margin-right: 142px;
+    margin-bottom: 26px;
+}
+a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 110.6%;
+    letter-spacing: 0.72px;
+}
+.logos{
+    margin-top: 28px;
+    margin-left: 155px;
+}
+.logolar{
+    margin-right: 80px;
+}
+.icons{
+    margin-left: 167px;
+    margin-top: 60px;
+}
+.facebook{
+    width: 15px;
+    height: 15px;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 100%;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.insta{
+    margin-right: 12px;
+}
+.icons b{
+    color: #FFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 173.6%;
+letter-spacing: 0.91px;
+margin-left: 29px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
